@@ -1,5 +1,6 @@
 Um miniguia para aprender um pouco de linguagem em C
 Foi utilizado notebooklm o qual auxilia nos estudos
+
 Technical Excellence in C: Operators, Logic, and Flow Control
 
 Environment Engineering: Toolchains and Workspace Configuration
