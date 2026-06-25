@@ -1,2 +1,3 @@
-# https-notebooklm.google.com-notebook-ea2ea3f4-3a00-4fd6-be8f-276ecb511092
+Um miniguia para aprender um pouco de linguagem em C
+Foi utilizado notebooklm o qual auxilia nos estudos
 miniguia-estudos-notebooklm
